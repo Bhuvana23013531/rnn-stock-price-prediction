@@ -23,7 +23,6 @@ Create the model and compile.
 Fit the model. Evaluate the model.
 
 ## PROGRAM
-
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -77,9 +76,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
-
 ```
-
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
