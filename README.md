@@ -1,5 +1,6 @@
 # Stock Price Prediction
-
+### NAME: BHUVANESHWARI M
+### REGISTER NUMBER: 212223230033
 ## AIM
 
 To develop a Recurrent Neural Network model for stock price prediction.
@@ -22,8 +23,7 @@ Create the model and compile.
 Fit the model. Evaluate the model.
 
 ## PROGRAM
-### NAME: BHUVANESHWARI M
-### REGISTER NUMBER: 212223230033
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
